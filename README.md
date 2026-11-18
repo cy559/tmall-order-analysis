@@ -17,5 +17,3 @@
 - `requirements.txt`：Python 依赖清单
 - `.gitignore`：忽略临时文件（如本地 Excel、缓存）
 - `tmall_order_report_cleaned.xlsx`：清洗后数据（供 Power BI 消费）
-
-## 🚀 本地运行
